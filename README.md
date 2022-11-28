@@ -59,7 +59,7 @@ react-tutorial
 
 Let's have a look at each one of those files:
 
-- `README.md` is this very same text you're reading now!
+- `README.md` is this very same text [you're reading now](https://gfycat.com/blaringconcernedkid)!
 - `node_modules` may not exist right now, but will appear once you run `npm install`. It contains the libraries needed to run this application (as defined in `package.json`).
 - `package.json` defines lots of parameters for this JavaScript project. Among others it defines the name of the application, version, what scripts we can run, and the dependencies. You won't need to modify it for this tutorial, but it's an important piece of every JS project. [Here](https://docs.npmjs.com/cli/v9/configuring-npm/package-json) is some additional documentation.
 - `package-lock.json` is a registry of the specific packages and their versions that are necessary to run this application. It's generated when `npm install` runs using the dependencies defined in `package.json`. It can be removed and will be regenerated next time `npm install` is run, but it's a good idea to commit it so that all developers working on the same application use the same installation.
